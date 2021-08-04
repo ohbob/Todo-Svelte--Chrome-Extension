@@ -1,0 +1,12 @@
+{
+  "name": "Todo App",
+  "version": "1.0",
+  "description": "Keep track of your todos",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
